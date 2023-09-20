@@ -3,11 +3,11 @@ This is a curated list of exploits for ChromeOS. It started with LTBEEF, and now
 Many of these exploits can destroy your computer if used improperly. So PLEASE PLEASE make sure you follow these instructions very carefully!
 If you need help ask it <a href="https://github.com/3kh0/ext-remover/discussions">here</a>
 
-Please use these only when you have permission, I (3kh0) do not condone the use of any exploits for illegal purposes!
+Please use these only when you have permission, I (td5038) do not condone the use of any exploits for illegal purposes!
   
 **ATTENTION ALL SYS ADMINS!!!**
 
-Hello, I am Echo and I created this repo in order to give exploits for the masses and to prove one thing, Chromebooks are literal trash, and a poor excuse for a computer. They are full of exploits, you might think you blocked/patched them all but then 3 more pop up. It is an endless game of whack-a-mole. Treat your students to a Linux computer each, they will thank you. And don't you dare start to think "My school district does not have that kind of money", it most likely does! How much are you paying the blocker companies? Think about that.
+Hello, I am td5038 and I fprked this repo in order to give exploits for the masses and to prove one thing, Chromebooks are literal trash, and a poor excuse for a computer. They are full of exploits, you might think you blocked/patched them all but then 3 more pop up. It is an endless game of whack-a-mole. Treat your students to a Linux computer each, they will thank you. And don't you dare start to think "My school district does not have that kind of money", it most likely does! How much are you paying the blocker companies? Think about that.
 
 <img width="250px" src="https://user-images.githubusercontent.com/58097612/191354621-bf7ff072-b9d7-46b5-994a-4d2adbf0e4f3.png">  
 Image Credit: LittleMissNyan
